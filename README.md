@@ -14,5 +14,5 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por backend, algoritmos e automa�
 - ⚡ Estudando otimização de algoritmos em C para desafios lógicos.
 
 ### 📫 Como me encontrar:
-- [LinkedIn](www.linkedin.com/in/jonathan-dias-felipe-9a6002223/)
+- www.linkedin.com/in/jonathan-dias-felipe-9a6002223/
 - 
