@@ -1,18 +1,50 @@
-# Olá, eu sou o Jonathan Dias! 👋
+# Olá, eu sou o Jonathan Dias! 👋  
+🚀 Desenvolvedor Full-Stack focado em performance, automação e soluções escaláveis
 
-Sou um **Desenvolvedor Full-Stack** apaixonado por backend, algoritmos e automação. Atualmente, foco em construir aplicações web robustas e sistemas de processamento de dados eficientes.
+---
 
-### 🛠️ Tecnologias e Ferramentas:
-- **Backend:** Python (Django, DRF), SQLite3, PostgreSQL.
-- **Frontend:** HTML5, CSS3, JavaScript (Interfaces Responsivas).
-- **Low-level:** Linguagem C (Algoritmos e Performance).
-- **QA/DevOps:** Testes Automatizados (Pytest/Unittest) e Git/GitHub.
+## 🛠️ Tecnologias e Ferramentas
 
-### 🎯 No que estou trabalhando:
-- 🔭 Atualmente desenvolvendo aplicações web escaláveis com Django.
-- 🧪 Aprimorando fluxos de testes automatizados para garantir código limpo e seguro.
-- ⚡ Estudando otimização de algoritmos em C para desafios lógicos.
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 📫 Como me encontrar:
-- www.linkedin.com/in/jonathan-dias-felipe-9a6002223/
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Low-level
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### QA / DevOps
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Unittest](https://img.shields.io/badge/Unittest-FFCC00?style=for-the-badge&logo=python&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🎯 No que estou trabalhando
+- 🔭 Desenvolvendo aplicações web escaláveis com Django  
+- 🧪 Aprimorando fluxos de testes automatizados para garantir código limpo e seguro  
+- ⚡ Estudando otimização de algoritmos em C para desafios lógicos  
+
+---
+
+### 📊 Dashboard de Atividades
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathandiasf&show_icons=true&theme=tokyonight&cache_seconds=7200)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathandiasf&layout=compact&theme=tokyonight&cache_seconds=7200)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jonathandiasf&theme=tokyonight)
+
+### 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-dias-felipe-9a6002223/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonathandiasf)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathandiasfelipe@gmail.com)
