@@ -37,9 +37,9 @@
 
 ### 📊 Dashboard de Atividades
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathandiasf&show_icons=true&theme=tokyonight&cache_seconds=7200)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathandiasf&show_icons=true&theme=tokyonight&cache_seconds=3600)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathandiasf&layout=compact&theme=tokyonight&cache_seconds=7200)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathandiasf&layout=compact&theme=tokyonight&cache_seconds=3600)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jonathandiasf&theme=tokyonight)
 
