@@ -1,5 +1,5 @@
 # Olá, eu sou o Jonathan Dias! 🙋‍♂️
-🚀 Desenvolvedor Full-Stack focado em performance, automação e soluções escaláveis
+🚀 Estudante de engenharia de software, desenvolvedor Full-Stack focado em performance, automação e soluções escaláveis
 
 ---
 
