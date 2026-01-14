@@ -1,4 +1,4 @@
-# Olá, eu sou o Jonathan Dias! 👋  
+# Olá, eu sou o Jonathan Dias! 🙋‍♂️
 🚀 Desenvolvedor Full-Stack focado em performance, automação e soluções escaláveis
 
 ---
