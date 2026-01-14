@@ -37,16 +37,9 @@
 
 ### 📊 Atividades
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathandiasf&show_icons=true&theme=tokyonight&cache_seconds=7200)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathandiasf&layout=compact&theme=dark&cache_seconds=7200)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=jonathandiasf&theme=tokyonight)
 
 ### 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-dias-felipe-9a6002223/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonathandiasf)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathandiasfelipe@gmail.com)
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-dias-felipe-9a6002223/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonathandiasf) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathandiasfelipe@gmail.com) |
+|---|---|---|
