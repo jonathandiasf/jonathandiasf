@@ -35,9 +35,8 @@
 
 ---
 
-### 📊 Atividades
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jonathandiasf&theme=tokyonight)
+### 📊 Gráfico de contribuições
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jonathandiasf&theme=tokyo-night)
 
 ### 🌐 Conecte-se comigo
 
