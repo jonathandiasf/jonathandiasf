@@ -28,10 +28,12 @@
 
 ---
 
-## 🎯 No que estou trabalhando
-- 🔭 Desenvolvendo aplicações web escaláveis com Django  
-- 🧪 Aprimorando fluxos de testes automatizados para garantir código limpo e seguro  
-- ⚡ Estudando otimização de algoritmos em C para desafios lógicos  
+🎯 No que estou trabalhando
+- 🔭 Construindo aplicações web escaláveis com Django, aplicando boas práticas de arquitetura e segurança
+- 🧪 Aprimorando pipelines de testes automatizados, garantindo qualidade, confiabilidade e manutenção do código
+- ⚡ Explorando otimização de algoritmos em C, focando em desempenho e resolução de desafios lógicos
+- 🌐 Evoluindo no desenvolvimento Front-end com React e JavaScript, criando interfaces modernas e responsivas
+- 📊 Aprofundando conhecimentos em modelagem de dados com PostgreSQL e SQLite, para soluções robustas e bem estruturadas
 
 ---
 
