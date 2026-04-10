@@ -1,54 +1,55 @@
 # Olá, eu sou o Jonathan Dias! 👋
 
-### 👨‍💻 Full-Stack Developer | SaaS & Web Solutions
-Estudante de Engenharia de Software focado em construir aplicações web escaláveis, unindo a performance do Back-end com interfaces modernas e intuitivas no Front-end.
+### 👨‍💻 Software Engineering Student | Full-Stack Developer | SaaS Architect
+Transformando problemas de negócios em soluções escaláveis de ponta a ponta. Focado em arquitetura limpa, automação e a integração estratégica de Inteligência Artificial no ciclo de vida de software (SDLC).
 
 ---
 
-### 🛠️ Minha Stack Tecnológica
+### 🛠️ My Tech Stack
 
-**Back-end & Database**
+**Backend & AI**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-**Low level**
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-<p/>
-  
-**Front-end & Design**
+**Frontend & Design**
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI/UX-FF61F6?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-**Ferramentas & Qualidade**
+**Cloud, DevOps & Infrastructure**
 <p align="left">
-  <img src="https://img.shields.io/badge/Pytest-0E7FBF?style=for-the-badge&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-FF6600?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+</p>
+
+**Computer Science Foundation (Low Level)**
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-000000?style=for-the-badge&logo=target&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Destaques do Portfólio
+### 🚀 Meus Projetos
 
-* **[Jon Ink Tattoo](https://github.com/jonathandiasf/jon-ink-tattoo-V1.0)**: Dashboard administrativo (Django Admin), integração assíncrona com **Fetch API** e banco de dados relacional.
-* **[O Rei das Massas](https://github.com/jonathandiasf/reidasmassas)**: Foco total em **UX/UI** e manipulação dinâmica de pedidos no carrinho.
-* **[Jogo Binário](https://github.com/jonathandiasf/jogo-binario)**: Aplicação com foco em **QA**, utilizando **Pytest** para garantir a integridade da lógica.
+* **[Jon Ink Tattoo](https://github.com/jonathandiasf/jon-ink-tattoo-V1.0)**: Sistema SaaS Full-Stack containerizado com **Docker**, utilizando **Django REST Framework** no backend e **React** no frontend. Gestão de imagens em nuvem e pipeline de deploy contínuo.
+* **[O Rei das Massas](https://github.com/jonathandiasf/reidasmassas)**: Solução de automação comercial com foco em experiência do usuário e alta conversão de pedidos via Web.
 
 ---
 
 ### ⚡ No que estou trabalhando agora
-* ✨ Migrando sistemas para **PostgreSQL** para maior escalabilidade.
-* 🛠️ Criando interfaces robustas e componentizadas com **React**.
-* 🔒 Implementando boas práticas de segurança e arquitetura limpa em Python.
+* 🧠 Integrando **LLMs (IA Generativa)** em fluxos de trabalho de aplicações SaaS.
+* 🐳 Aprimorando orquestração de containers e microserviços com **Docker**.
+* 🏛️ Aplicando padrões de projeto (**UML/BCE**) e **Arquitetura Limpa** para garantir manutenibilidade.
 
 ---
 
